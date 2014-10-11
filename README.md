@@ -1,6 +1,8 @@
 # Code deck example
 Automatically built with a Yeoman generator.
 
+[http://trevordmiller.github.io/code-deck-example](http://trevordmiller.github.io/code-deck-example)
+
 ---
 
 ## Built with Code Deck
