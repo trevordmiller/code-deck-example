@@ -6,3 +6,7 @@ Automatically built with a Yeoman generator.
 ## Built with Code Deck
 
 This project was built using [Code Deck](https://github.com/trevordmiller/generator-code-deck).
+
+---
+
+Built with ♡ by [@trevordmiller](http://www.trevordmiller.com).
